@@ -1,6 +1,6 @@
 package factoryMethod.service;
 
-import factoryMethod.TransportEnum;
+import factoryMethod.transport.TransportEnum;
 import factoryMethod.factory.PlaneFactory;
 import factoryMethod.factory.TrainFactory;
 import factoryMethod.factory.TransportFactory;

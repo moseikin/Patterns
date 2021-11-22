@@ -2,6 +2,8 @@ package factoryMethod;
 
 import factoryMethod.factory.TransportFactory;
 import factoryMethod.service.TransportFactoryChooserService;
+import factoryMethod.transport.Transport;
+import factoryMethod.transport.TransportEnum;
 
 public class Main {
     public static void main(String[] args) {

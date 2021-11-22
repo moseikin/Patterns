@@ -1,6 +1,6 @@
 package factoryMethod.factory;
 
-import factoryMethod.Transport;
+import factoryMethod.transport.Transport;
 
 public interface TransportFactory {
 

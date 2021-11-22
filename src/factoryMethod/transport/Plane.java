@@ -1,4 +1,4 @@
-package factoryMethod;
+package factoryMethod.transport;
 
 public class Plane implements Transport {
 

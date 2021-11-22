@@ -1,7 +1,7 @@
 package factoryMethod.factory;
 
-import factoryMethod.Plane;
-import factoryMethod.Transport;
+import factoryMethod.transport.Plane;
+import factoryMethod.transport.Transport;
 
 public class PlaneFactory implements TransportFactory {
     @Override

@@ -1,7 +1,7 @@
 package factoryMethod.factory;
 
-import factoryMethod.Train;
-import factoryMethod.Transport;
+import factoryMethod.transport.Train;
+import factoryMethod.transport.Transport;
 
 public class TrainFactory implements TransportFactory {
     @Override
