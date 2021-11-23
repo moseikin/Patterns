@@ -1,6 +1,6 @@
-package AbstractFactory.plane;
+package abstractFactory.plane;
 
-import AbstractFactory.interfaces.Fuel;
+import abstractFactory.interfaces.Fuel;
 
 public class PlaneFuel implements Fuel {
 

@@ -1,9 +1,9 @@
-package AbstractFactory.train;
+package abstractFactory.train;
 
-import AbstractFactory.interfaces.Equipment;
-import AbstractFactory.interfaces.Fuel;
-import AbstractFactory.interfaces.Personnel;
-import AbstractFactory.interfaces.VoyageFactory;
+import abstractFactory.interfaces.Equipment;
+import abstractFactory.interfaces.Fuel;
+import abstractFactory.interfaces.Personnel;
+import abstractFactory.interfaces.VoyageFactory;
 
 public class TrainVoyageFactory implements VoyageFactory {
     @Override

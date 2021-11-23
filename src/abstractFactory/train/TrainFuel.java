@@ -1,6 +1,6 @@
-package AbstractFactory.train;
+package abstractFactory.train;
 
-import AbstractFactory.interfaces.Fuel;
+import abstractFactory.interfaces.Fuel;
 
 public class TrainFuel implements Fuel {
     @Override

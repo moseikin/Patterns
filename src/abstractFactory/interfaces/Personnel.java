@@ -1,4 +1,4 @@
-package AbstractFactory.interfaces;
+package abstractFactory.interfaces;
 
 public interface Personnel {
 

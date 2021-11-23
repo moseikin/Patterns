@@ -1,6 +1,6 @@
-package AbstractFactory.plane;
+package abstractFactory.plane;
 
-import AbstractFactory.interfaces.Personnel;
+import abstractFactory.interfaces.Personnel;
 
 public class PlanePersonnel implements Personnel {
     @Override
